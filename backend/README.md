@@ -28,3 +28,4 @@ Things you may want to cover:
 -feature-A
 -fix-B
 -feature-C
+-feature-E
